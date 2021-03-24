@@ -1,7 +1,7 @@
 <h1> WORK IN PROGRESS </h1>
 
 
-![ezgif com-gif-maker (2)](https://user-images.githubusercontent.com/39513876/112359839-b36ce100-8cf7-11eb-8294-5674c5dc8ccb.gif)
+![BannerGIF](https://user-images.githubusercontent.com/39513876/112361914-e021f800-8cf9-11eb-9aac-a2b675065afc.gif)
 
 
 ### Hi there 👋
