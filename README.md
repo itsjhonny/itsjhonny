@@ -1,7 +1,7 @@
 <h1> WORK IN PROGRESS </h1>
 
 
-![Blue Freelancer Web Designer Business Card4](https://user-images.githubusercontent.com/39513876/112339195-7566c180-8ce5-11eb-8729-da4f64d53096.gif)
+![ezgif com-gif-maker (2)](https://user-images.githubusercontent.com/39513876/112359839-b36ce100-8cf7-11eb-8294-5674c5dc8ccb.gif)
 
 
 ### Hi there 👋
