@@ -1,6 +1,3 @@
-<h1> WORK IN PROGRESS </h1>
-
-
 ![BannerGIF](https://user-images.githubusercontent.com/39513876/112361914-e021f800-8cf9-11eb-9aac-a2b675065afc.gif)
 
 
@@ -17,8 +14,8 @@ patterns.\
 🌱 &nbsp;I'm on track for learning more about Artificial Intelligence, Homomorphic Encryption, and Computer Vision.\
 ✍️ &nbsp;In my free time, I play guitar, football and pursue writing as my hobbies.\
 💬 &nbsp;Feel free to reach out to me for general consulting, or discussions.\
-✉️ &nbsp;You can email me at dhadwal1507@gmail.com! I'll try to respond as soon as possible!\
-📄 &nbsp;You can check my [Résumé](https://drive.google.com/file/d/1R7R0fRKa3TIDOhKAMvwy7XNSuRAeUtIB/view?usp=sharing) for more details about me. I'm open to feedback and suggestions!
+✉️ &nbsp;You can email me at dhadwal1507@gmail.com. I'll try to respond as soon as possible!\
+📄 &nbsp;You can check my [Resume](https://drive.google.com/file/d/1R7R0fRKa3TIDOhKAMvwy7XNSuRAeUtIB/view?usp=sharing) for more details about work experience.
 
 
 ### 🛠 &nbsp;Tech Stack
