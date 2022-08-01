@@ -6,9 +6,9 @@
 ## 👨🏻‍💻 &nbsp;About Me
 
 💡&nbsp;I'm a software developer, with over 7 years of experience in projects for the private sector and federal government. \
-💻 &nbsp;I'm currently working at RockSpoon company, building SaaS system using Go lang and MongoDB \
-🎓&nbsp;I'm doing a Masters in Computer Science with an emphasis on Human-Computer Interaction \
-✍️ &nbsp;In my free time,r, football and pursue writing as my hobbies.\
+💻 &nbsp;I'm currently working at RockSpoon company, building SaaS system using Go lang and MongoDB. \
+🎓&nbsp;I'm doing a Masters in Computer Science with an emphasis on Human-Computer Interaction. \
+✍️ &nbsp;In my free time, I like to surf, read books (The Lord of the Rings, HP), play online games and use Reddit and Quora. \
 💬 &nbsp;Feel free to reach out to me for general consulting, or discussions on the aforementioned topics!\
 ✉️ &nbsp;You can email me contact.joao.guimaraes@gmail.com I'll try to respond as soon as possible!\
 
