@@ -5,7 +5,7 @@
 
 ## 👨🏻‍💻 &nbsp;About Me
 
-💡&nbsp;I'm a software developer, with over 7 years of experience in projects for the private sector and federal government. \
+💡&nbsp;I'm a software developer, learning every day. \
 💻 &nbsp;I'm currently working at RockSpoon company, building SaaS system using Go lang and MongoDB. \
 🎓&nbsp;I'm doing a Masters in Computer Science with an emphasis on Human-Computer Interaction. \
 ✍️ &nbsp;In my free time, I like to surf, read books (The Lord of the Rings, HP), play online games and use Reddit and Quora. \
