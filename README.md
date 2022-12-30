@@ -1,7 +1,7 @@
 ## 👨🏻‍💻 &nbsp;About Me
-💡 &nbsp;I'm a software developer, learning every day. \
-💻 &nbsp;I'm currently working at RockSpoon company, building SaaS system using Go lang and MongoDB. \
-🎓 &nbsp;I'm doing a Masters in Computer Science with an emphasis on Human-Computer Interaction. \
+💡 &nbsp;Hi! I'm a software developer, learning every day. \
+💻 &nbsp;Currently working at RockSpoon company, building SaaS system using Go lang and MongoDB. \
+🎓 &nbsp;Doing a Masters in Computer Science with an emphasis on Human-Computer Interaction. \
 ✍️  &nbsp;I like to surf, read books (The Lord of the Rings, HP), play nintendo switch games and use Reddit/Quora. \
 💬 &nbsp;Feel free to reach out to me for general consulting, or discussions on the aforementioned topics!
 
