@@ -2,7 +2,7 @@
 💡 &nbsp;Hi! I'm a software developer, learning every day. \
 💻 &nbsp;Currently working at RockSpoon company, building SaaS system using Go lang and MongoDB. \
 🎓 &nbsp;Doing a Masters in Computer Science with an emphasis on Human-Computer Interaction. \
-✍️  &nbsp;I like to surf, read books (The Lord of the Rings, HP), play nintendo switch games and use Reddit/Quora. \
+✍️  &nbsp;I like to surf, read books (The Lord of the Rings, HP), play nintendo switch and watch animes. \
 💬 &nbsp;Feel free to reach out to me for general consulting, or discussions on the aforementioned topics!
 
 ## 🛠 &nbsp;Tech Stack
@@ -16,9 +16,3 @@
 
 <a href="https://www.linkedin.com/in/johnpguimaraes/"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=flat&logo=linkedin&logoColor=white"/></a> &nbsp;
 <a href="mailto:contact.joao.guimaraes@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" /></a> &nbsp;
-
-
-
-
-
-
