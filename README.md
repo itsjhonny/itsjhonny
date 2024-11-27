@@ -1,9 +1,9 @@
 ## 👨🏻‍💻 &nbsp;About Me
-💡 &nbsp;Hi! I'm a software developer, learning every day. \
-💻 &nbsp;Currently working at RockSpoon company, building SaaS system using Go lang and MongoDB. \
-🎓 &nbsp;Pursuing a Master’s degrees in Computer Science with an emphasis on Human-Computer Interaction. \
-✍️  &nbsp;I like to surf, read books (The Lord of the Rings, HP and similar), play nintendo switch and watch animes. \
-💬 &nbsp;Feel free to reach out to me for general consulting, or discussions on the aforementioned topics!
+Software Engineer with over 7 years of experience successfully delivering IT projects for private companies and federal government organizations.
+
+Specializing in scalable and continuous development, I am passionate about creating robust software solutions that foster innovation and operational efficiency. With a strong focus on requirements analysis, system design, and strategic planning, I strive to ensure timely and high-quality sprint deliveries, acting as a key contributor to achieving project goals.
+
+Looking forward to further deepening my expertise in software development and contributing to impactful, cutting-edge projects.
 
 ## 🛠 &nbsp;Tech Stack
 ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
