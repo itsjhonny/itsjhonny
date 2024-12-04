@@ -3,8 +3,6 @@ Software Engineer with over 7 years of experience successfully delivering IT pro
 
 Specializing in scalable and continuous development, I am passionate about creating robust software solutions that foster innovation and operational efficiency. With a strong focus on requirements analysis, system design, and strategic planning, I strive to ensure timely and high-quality sprint deliveries, acting as a key contributor to achieving project goals.
 
-Looking forward to further deepening my expertise in software development and contributing to impactful, cutting-edge projects.
-
 ## 🛠 &nbsp;Tech Stack
 ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)&nbsp;
